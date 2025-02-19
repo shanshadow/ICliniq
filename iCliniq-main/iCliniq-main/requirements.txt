@@ -1,0 +1,17 @@
+argparse
+werkzeug
+requests
+pymongo
+pdfplumber
+paddleocr
+opencv-python
+PyMuPDF
+torch
+transformers
+langchain
+langchain-community
+pytesseract
+tf-keras
+sentence-transformers
+sentencepiece
+accelerate

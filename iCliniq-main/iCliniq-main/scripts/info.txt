@@ -1,0 +1,4 @@
+This folder is for storing primary python scripts
+chatbot credentials:
+un: sujit
+pw: sujit
